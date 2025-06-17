@@ -5,4 +5,3 @@ Correr la imagen: docker run -p 3000:3000 moto-reservas-api
 
 Parar: Docker ps 
 Luego seleccionar el nombre del contenedor en la tabla: docker stop <nombre del contenedor>
-
